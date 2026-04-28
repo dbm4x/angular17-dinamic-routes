@@ -1,0 +1,23 @@
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.nombre {
+    margin-top: 10px;
+    font-size: 22px;
+}
+
+.rol {
+    color: black;
+    margin-bottom: 15px;
+}
+
+.redes a {
+    margin: 5px;
+}
+
+.boton {
+    margin-top: 10px;
+}
